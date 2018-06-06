@@ -32,7 +32,7 @@
           `/*
 * Inspired by http://strml.net/
 * 源码地址 https://github.com/sitexa/anires
-* 大家好，我是南方。
+* 大家好，我是卑天君。
 * 我来写一份简历！
 */
 
@@ -181,116 +181,80 @@ html{
 `],
         currentMarkdown: '',
         currentThankMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `卑天君
 ====
 
-坐标：湖南长沙。
+坐标：上海。
 
-资深软件工程师，资深产品经理，高级项目经理。现为自由职业。
+Java后端工程师。现为自由职业。
 
 技能
 ====
 
-数据库设计
-----
-  - 结构化数据库设计
-  - noSQL设计
 
 后端开发
 ----
   - 用户管理
   - 单点登录
-  - 第三方登录
-  - 权限管理
-  - 交易系统
-  - 支付系统
-  - 社区系统
-  - 博客系统
-  - 公众号开发
-  - 小程序开发
-  - API接口开发
+  - 购物车系统
+  - 订单系统
+  - 后台系统
+  - 前台系统
+ 
 
-前端开发
-----
-  - Web前端开发
-  - 移动终端(Native App, Hybrid App)
 
-产品设计
-----
-  - 智慧旅游项目
-  - 运动健康云平台
-  - 社区支持农业O2O项目
-  - 省级环境监控平台
-  - 高速公路异地处罚系统
-  - 环保局办公自动化系统
-  - 保险公司数据迁移项目
-  - 啤酒厂供应链项目
-  - 货运代理系统
-  - 集装箱管理系统
-  - 滞期费管理项目
 
-技术及语言
+项目经验
 ----
-  - Java: SpringMVC, SpringCloud, Hibernate, iBatis, spark, sql2o, HikariCP, freemarker, okHttp, retrofit, RxJava
-  - Kotlin: ktor, exposed, anko
-  - Node.js: express, angular, ionic, react, cordova, meteor, electron, axios
-  - Swift: Vapor, ReactiveSwift
-  - Golang: hugo, beego, gorm, sqlx, matcha
-  - Python: tushare, pandas, numpy, matplotlib
-  - DotNet and PHP
-  - DB: SQLServer, Oracle, MySQL/MariaDB, MongoDB, graphQL, redis, memcached
-  - WebServer: apache, nginx, tomcat, netty, jetty
-  - OS: Ubuntu, CentOS, MacOS, Windows
-  - Others: Docker, git, Xmind，Axure
+  - 乐乐便民商城
+  - 潮裤网
+  - 友诚贷
+  - 暖康管理系统
+  
+相关技能
+---
+-熟悉Java基础，JavaSE，理解OOP程序设计，熟悉常见的设计模式
+-熟悉Java Web开发，掌握html，css，js，jquery，ajax等前端技术。熟练运用easyui前端框架
+-熟悉spring框架，了解IOC（控制反转），AOP编程 ,DI（依赖注入），声明式事务处理
+-熟悉springMVC控制层框架，理解springMVC的执行流程，掌握注解以及Restful风格开发
+-熟悉Mybatis持久层框架，掌握Mybaties一对多，多对多关系映射
+-了解solr，solr云搜索技术，熟悉RabbitMQ消息队列
+-了解Quartz定时任务调度框架，熟悉redis 缓存技术
+-了解POI excel表格导入导出
+-了解httpclient 
+-了解dubbo,zookeeper等分布式框架，了解nignx方向代理技术
+-熟练使用mysqls数据库，了解orcal数据库
+-了解linux操作系统，熟悉linux常用指令
+-熟练使用maven项目构建工具以及svn，git等项目管理工具
 
 工作经历
 ----
 
-1. 湖南融耀健康管理有限公司
-2. 湖南三英特旅游智能技术有限公司
-3. 合肥蓝盾科技有限公司
-4. 上海易保网络有限公司
-5. 厦门海环计算机软件有限公司
+1.郑州烨天科技有限公司
+2.苏州逸瑞科技有限公司
 
 教育经历
 ----
 
-1. 华东理工大学 环境工程学士
-2. 厦门大学 系统工程硕士
+1. 郑州轻工业学院
 
-文章
-----
 
-* [故土难离（我的父亲母亲）](https://www.meipian.cn/qacqfbz?uuid=d541c15eef694065bc9d1ac9a07925a2)
-* [油腻腻的中年（小诗）](https://www.meipian.cn/wjaz3zh?uuid=ca1cd053b717451da781786de44e66e7)
-* [生命（老四们的蝼蚁人生）](https://www.meipian.cn/vc4pr59?uuid=799c98f5a187405c94c86f7da7788869)
-* [大健康商业模式](http://www.sitexa.org/technology/%E5%A4%A7%E5%81%A5%E5%BA%B7%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F.html)
-* [社区社交商业模型](http://www.sitexa.org/other/%E7%A4%BE%E5%8C%BA%E7%A4%BE%E4%BA%A4%E5%95%86%E4%B8%9A%E6%A8%A1%E5%9E%8B.html)
-
-链接
-----
-
-* [GitHub](https://github.com/sitexa)
-* [技术博客](http://www.sitexa.org)
-* [南方时代](http://www.sitexa.net)
-* [神秘湘鄂西](http://www.sitexa.cn)
-* [我的简历故事(程序人生公众号文章)](https://mp.weixin.qq.com/s/5rsB956EPVm0FoFOe6xYTg)
 
 勾引方式
 ----
 
-* 微信：xnpeng
+* 微信：btj123btj
 
 `, thanksMarkdown: `
 鸣谢
 ----
 
-* 这段时间，我有些诚煌诚恐。我的简历被很多人关注(49842），我码的那几篇文章也有很多人点击(20095），微信好友增加了2000多人。"程序人生"公众号文章（我的简历故事）阅读量超过十万+。
-* 有很多企业向我发出了面试邀请，有很多创业团队向我伸出了橄榄枝，一些朋友给我提出非常好的建议，还有很多同学希望跟我进行技术交流，甚至有些企业问我能否承接外包业务。
-* 于是，我受命下山，到了深圳、珠海、北京、天津等地，拜访了一些老板，结识了一些新朋友，见了一些同学和老同事，感触很多，收获很大。IT行业正在发生深刻的变化，新技术、新模式、新思维、新业态，层出不穷，各种探索，各种炒作，让人眼花缭乱。
-* 我对自己也有了一个新的认识。我逐渐发现，我不是去找一份工作，而是在寻找一些机会，一些志同道合的伙伴，一份激动人心的事业。很荣幸，已经有几个朋友跟我达成了意向，准备组建团队。
-* 到底做什么项目呢？我只能简单地说，社交+电商+区块链。肯定有人要说，这个题目太大了，是蹭热度。我不这样想。我以前对社交的思考中，一个重要的因素就是信任关系，而对电商的思考中，去中心化是一个核心考量。而区块链技术不正是解决信任机制和去中心化的利器么？
-* 在此，我欢迎有兴趣的朋友加入我们，尽快推进项目的实施。（微信：xnpeng）
+*  爱刺激、爱挑战、喜欢尝试和接触新事物、执迷于新技术带给自己的惊喜。。时刻让自己保持学习的动力和状态，毕竟同事还在深夜敲代码，隔壁老王仍在努力锻炼腰。
+*  自控能力强、团队意识强、责任心当然是刚刚的。在工作中遇到问题时，会从多方面找寻思路，保证工作的质量。
+*  抗压能力强，并且可以自我调节，能够顶住工作突如而来的压力，从容应对。
+*  拥有良好的代码风格和编码习惯，保证代码的整洁，清爽、可读性高，易于维护。
+*  数学的乐趣在于解题，代码的魅力在于创造世界。Hello,World!
+*  志向远大，希望自己能够成为一代大牛。一夜春风生华彩，欲与江上竞妖娆！
 
   `
       }
